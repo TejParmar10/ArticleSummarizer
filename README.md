@@ -1,4 +1,4 @@
-Title: AI-Powered Article Summarization with Pydantic Validation
+Title: AI-Powered Article Summarization with Pydantic Validation\n
 **Harness the power of AI to effortlessly extract insightful summaries from online articles. This project leverages the capabilities of ChatGPT coupled with the rigorous validation of Pydantic to deliver reliable, concise, and bulleted summaries that meet your specific requirements.**
 Key Features:
 Efficient Article Retrieval: Employs the newspaper library to seamlessly fetch articles from various websites.
